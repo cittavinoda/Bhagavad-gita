@@ -69,9 +69,10 @@ div a{
     padding: 10px;
 }
 a{
-    text-decoration: none;
+    text-decoration: underline;
     font-weight: bold;
-    color: black;
+    color:var(--cor3
+    );
 }
 
 a:hover{
