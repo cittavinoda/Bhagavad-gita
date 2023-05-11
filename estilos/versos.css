@@ -70,11 +70,17 @@ h3.signif{
     padding: 20px;
     text-align: center;
 }
+span{
+    font-weight: bold;
+}
 p{
     text-align: justify;
     font-size: 1.3em;
     padding: 10px;
     text-indent: 30px;
+}
+p.livro{
+    text-align: right;
 }
 blockquote{
     font-size: 1.3em;
