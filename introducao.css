@@ -17,7 +17,7 @@ body{
     margin-bottom: 40px;
 }
 main{
-    width: 82.2vw;
+    width: 90vw;
     margin: auto;
     background-color: var(--cor1);
 }
@@ -53,12 +53,11 @@ ol li{
 }
 div{
     padding: 10px 0px 10px 20px;
-    width: 80vw;
     background-image: linear-gradient(to right, var(--cor3), var(--cor1), var(--cor3));
     text-align: center;
 }
 a{
-    color: var(--cor2);
+    color: var(--cor1);
     text-decoration: none;
     font-weight: bold;
     padding: 5px;

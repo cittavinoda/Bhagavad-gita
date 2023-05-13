@@ -16,7 +16,7 @@ body{
     margin-bottom: 40px;
 }
 main{
-    width: 800px;
+    width: 90vw;
     margin: auto;
     background-color: var(--cor1);
 }
@@ -45,13 +45,12 @@ footer p{
 }
 div{
     padding: 10px 0px 10px 20px;
-    width: 780px;
     font-weight: bold;
     background-image: linear-gradient(to right, var(--cor3), var(--cor1), var(--cor3));
     text-align: center;
 }
 a{
-    color: var(--cor2);
+    color: var(--cor1);
     text-decoration: none;
     padding: 5px;
     background-color: var(--cor3);

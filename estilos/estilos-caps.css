@@ -24,7 +24,7 @@ h1, h2{
 }
 
 main{
-    width: 80vw;
+    width: 90vw;
     background-color: var(--cor1);
     margin: auto;
 }
@@ -61,18 +61,18 @@ p{
 div{
     text-align: center;
     padding: 10px 0px 10px 0px;
-    width: 80vw;
     background-image: linear-gradient(to right, var(--cor3), var(--cor1), var(--cor3));
 }
 div a{
-    color: var(--cor2);
+    color: var(--cor1);
     padding: 10px;
+    margin-right: 10px;
+    background-color: var(--cor3);
 }
 a{
     text-decoration: underline;
     font-weight: bold;
-    color:var(--cor3
-    );
+    color:var(--cor3);
 }
 
 a:hover{
