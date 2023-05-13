@@ -14,10 +14,10 @@ background-color: rgb(122, 122, 192);
 margin: auto;
 }
 h1{
-background-color:rgb(1, 1, 64) ;
+background-color:rgb(1, 1, 64);
 color: white;
 text-align: center;
-padding: 10px;
+padding: 10px 0px 10px 0px;
 }
 table{
 margin: auto;
@@ -31,6 +31,7 @@ width: 140px;
 text-align: center;
 padding: 15px;
 }
+
 a{
 color: white;
 text-decoration: none;
