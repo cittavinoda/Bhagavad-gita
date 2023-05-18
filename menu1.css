@@ -20,20 +20,29 @@ h1{
     text-align: center;
     padding: 10px 0px 10px 0px;
 }
-table{
-    margin: auto;
-    padding: 10px;
+
+nav{
+    margin-top: 20px;
 }
 
-td{
-    background-color: rgb(1, 1, 64);
-    border: 2px solid rgb(151, 151, 151);
-    width: 100px;
+div{
+    display: inline-block;
     text-align: center;
-    padding: 15px;
+    padding: 6px;
+    margin: 10px;
+}
+
+div#pref, #intro{
+    width: 100px;
+    background-color:rgb(1, 1, 64);
+    display: inline-block;
 }
 
 
+div.cap1{
+    width: 30px;
+    background-color:rgb(1, 1, 64);
+}
 
 a{
     color: white;
