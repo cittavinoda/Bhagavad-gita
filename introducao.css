@@ -12,12 +12,13 @@
     --cor4: rgb(1, 1, 64);
 }
 body{
+    width: 100vw;
     background-color: var(--cor0);
     margin-top: 40px;
     margin-bottom: 40px;
 }
 main{
-    width: 90vw;
+    width: 100vw;
     margin: auto;
     background-color: var(--cor1);
 }
@@ -26,6 +27,7 @@ h1{
     color: white;
     padding: 20px;
     text-align: center;
+    text-shadow: 3px 4px 4px greenyellow;
 }
 article{
     padding: 20px;
@@ -33,12 +35,11 @@ article{
 p{
     text-align: justify;
     text-indent: 30px;
-    
-    font-size: 1.3em;
+    font-size: 0.8em;
     padding: 10px;
 }
 blockquote{
-    font-size: 1.3em;
+    font-size: 0.8em;
     text-align: center;
     padding: 10px;
     font-style: italic;
@@ -46,7 +47,7 @@ blockquote{
 ol li{
     padding: 5px;
     list-style-position: inside;
-    font-size: 1.3em;
+    font-size: 0.8em;
 }
 .signi{
     font-weight: bold;
