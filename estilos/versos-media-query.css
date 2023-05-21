@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) and (max-width: 992px){
+    h1, h2{
+        padding: 10px;
+        font-size: 1.4em;
+    }
+    
+    article h2{
+        text-align: center;
+        font-style: italic;
+        font-weight: normal;
+        font-size: 1.2em;
+    }
+    
+    h3.traducao{
+        padding: 20px;
+        text-align: center;
+        font-size: 1.2em;
+    }
+    h3.verso{
+        text-align: justify;
+        padding: 10px;
+        font-size: 1.2em;
+        background-image: linear-gradient(to right, var(--cor3), var(--cor2));
+        color: white;
+    }
+    h3.signif{
+        padding: 20px;
+        text-align: center;
+        font-size: 1.2em;
+    }
+    
+    p{
+        text-align: justify;
+        font-size: 1.2em;
+        padding: 10px;
+        text-indent: 30px;
+    }
+    blockquote{
+        font-size: 1.2em;
+        text-align: center;
+        padding: 10px;
+        font-style: italic;
+    }
+}
+
+@media screen and (min-width: 950px){
+    h1, h2{
+        padding: 10px;
+        font-size: 1.5em;
+    }
+    
+    article h2{
+        text-align: center;
+        font-style: italic;
+        font-weight: normal;
+        font-size: 1.3em;
+    }
+    
+    h3.traducao{
+        padding: 20px;
+        text-align: center;
+        font-size: 1.3em;
+    }
+    h3.verso{
+        text-align: justify;
+        padding: 10px;
+        font-size: 1.3em;
+        background-image: linear-gradient(to right, var(--cor3), var(--cor2));
+        color: white;
+    }
+    h3.signif{
+        padding: 20px;
+        text-align: center;
+        font-size: 1.3em;
+    }
+    
+    p{
+        text-align: justify;
+        font-size: 1.3em;
+        padding: 10px;
+        text-indent: 30px;
+    }
+    blockquote{
+        font-size: 1.3em;
+        text-align: center;
+        padding: 10px;
+        font-style: italic;
+    }
+}
