@@ -18,7 +18,7 @@ body{
 }
 
 main{
-    width: 90vw;
+    width: 100vw;
     height: 100vh;
     background-color: var(--cor1);
     margin: auto; 
@@ -32,7 +32,7 @@ h1{
     text-shadow: 3px 3px 6px rgb(0, 197, 0);
 }
 
-table{
+article{
     margin: auto;
     width: 50%;
     margin-top: 20px;

@@ -24,6 +24,7 @@ body{
 }
 main{
     width: 100vw;
+    height: 100%;
     background-color: var(--cor1);
     margin: auto; 
 }
@@ -94,6 +95,7 @@ blockquote{
 div{
     display: inline-block;
     text-align: center;
+    margin-top: 26px;
     padding: 10px 0px 10px 0px;
     width: 100vw;
     background-image: linear-gradient(to right, var(--cor3), var(--cor1), var(--cor3));
