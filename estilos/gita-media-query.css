@@ -6,12 +6,13 @@
         width: 90vw;
         margin: auto;
     }
+   
 }
 
 @media screen and (min-width: 950px){
     main{
         background-color: rgb(1, 1, 64);
         width: 80vw;
-        margin: auto;
+        margin: auto;  
     }
 }

@@ -32,9 +32,8 @@ h1{
     text-shadow: 3px 3px 6px rgb(0, 197, 0);
 }
 
-article{
+table{
     margin: auto;
-    width: 50%;
     margin-top: 20px;
     box-shadow: 0px 0px 10px black;
 }

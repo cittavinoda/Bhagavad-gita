@@ -5,6 +5,11 @@
     padding: 0px;
 }
 
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
+
 :root{
     --cor0: rgb(224, 224, 245);
     --cor1: rgb(187, 187, 225);
@@ -45,6 +50,7 @@ header div.menu{
 article{
     width: 100vw;
     margin: auto;
+
 }
 
 h3{
@@ -60,6 +66,7 @@ p{
     padding: 10px;
     font-size: 0.8em;
     text-align: justify;
+    font-weight: bold;
 }
 div{
     text-align: center;
