@@ -46,3 +46,9 @@ h2{
     background-image: linear-gradient(to right, var(--cor2), var(--cor1));
     margin: 20px;
 }
+span{
+    font-weight: bold;
+}
+.rodape{
+    text-align: right;
+}
