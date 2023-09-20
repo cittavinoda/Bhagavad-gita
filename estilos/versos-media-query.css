@@ -32,12 +32,12 @@
     h3.traducao{
         padding: 20px;
         text-align: center;
-        font-size: 1.2em;
+        font-size: 1.4em;
     }
     h3.verso{
         text-align: justify;
         padding: 10px;
-        font-size: 1.2em;
+        font-size: 1.4em;
         background-image: linear-gradient(to right, var(--cor3), var(--cor2));
         color: white;
     }
@@ -54,7 +54,7 @@
         text-indent: 30px;
     }
     blockquote{
-        font-size: 1.2em;
+        font-size: 1.4em;
         text-align: center;
         padding: 10px;
         font-style: italic;
@@ -93,12 +93,12 @@
     h3.traducao{
         padding: 20px;
         text-align: center;
-        font-size: 1.3em;
+        font-size: 1.4em;
     }
     h3.verso{
         text-align: justify;
         padding: 10px;
-        font-size: 1.3em;
+        font-size: 1.4em;
         background-image: linear-gradient(to right, var(--cor3), var(--cor2));
         color: white;
     }
@@ -115,7 +115,7 @@
         text-indent: 30px;
     }
     blockquote{
-        font-size: 1.3em;
+        font-size: 1.4em;
         text-align: center;
         padding: 10px;
         font-style: italic;
