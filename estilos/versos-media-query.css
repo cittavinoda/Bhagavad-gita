@@ -32,12 +32,12 @@
     h3.traducao{
         padding: 20px;
         text-align: center;
-        font-size: 1.4em;
+        font-size: 1.2em;
     }
     h3.verso{
         text-align: justify;
         padding: 10px;
-        font-size: 1.2em;
+        font-size: 1.4em;
         background-image: linear-gradient(to right, var(--cor3), var(--cor2));
         color: white;
     }

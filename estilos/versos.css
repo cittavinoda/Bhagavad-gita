@@ -51,7 +51,7 @@ article h2{
     text-align: center;
     font-style: italic;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 1em;
 }
 article .signif{
     font-style: normal;
@@ -60,19 +60,19 @@ article .signif{
 h3.traducao{
     padding: 20px;
     text-align: center;
-    font-size: 0.8em;
+    font-size: 1em;
 }
 h3.verso{
     text-align: justify;
     padding: 10px;
-    font-size: 0.8em;
+    font-size: 1em;
     background-image: linear-gradient(to right, var(--cor3), var(--cor2));
     color: white;
 }
 h3.signif{
     padding: 20px;
     text-align: center;
-    font-size: 0.8em;
+    font-size: 1em;
 }
 span{
     font-weight: bold;
@@ -87,7 +87,7 @@ p.livro{
     text-align: right;
 }
 blockquote{
-    font-size: 0.8em;
+    font-size: 1em;
     text-align: center;
     padding: 10px;
     font-style: italic;
